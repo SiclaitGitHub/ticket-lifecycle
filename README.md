@@ -88,8 +88,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 5. Close Resolved Ticket
 
--Once the matter has be resolved the make the ticket as "Closed"
--Ticket should appear under the "Closed" tab of the "Tickets" section of the "Agent Admin" 
+-Mark the ticket as "Closed" once matter is resolved.
+-Ticket should appear under the "Closed" tab of the "Tickets" section of the "Agent Admin".
 
 </p>
 <br />
