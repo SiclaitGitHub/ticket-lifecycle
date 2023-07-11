@@ -36,8 +36,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 1. Create Sample Tickets
 
-- Create 3 sample tickets of varying priority through the end user interface that can be accessed through this URL "http://localhost/osTicket/"
-- This will give us matters to address when using the "Admin Panel"
+- Create 3 sample tickets of varying priority through the end user interface that can be accessed through this URL. "http://localhost/osTicket/".
+- This will give us matters to address when using the "Admin Panel".
   
 
 </p>
@@ -49,7 +49,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 2. Address tickets as a Help Desk professional
 
-- Log into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"
+- Log into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"..
 - The tickets created via the user interface should be visible.
 
 
@@ -58,7 +58,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 3. Confirm Agent Access
    
-- Verify that the "Agent" has access to the tickets that were created previosuly on the "Admin Panel"
+- Verify that the "Agent" has access to the tickets that were created previosuly on the "Admin Panel".
 - Setting Agent to "Supreme Admin" access should allow the agent "Jane Doe" to see all created tickets. 
 </p>
 <br />
@@ -70,8 +70,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 4. Open and Address Tcikets
 
-- Make sure "Priorpty" is set accuratley
-- Assign tickets to relavent team memember "Jane Doe"
-- Make sure "Severity" is set accurately "SEV A" for matters that immedietley affect business. 
+- Make sure "Priorpty" is set accuratley.
+- Assign tickets to relavent team memember "Jane Doe".
+- Assign ticket to the relvent "Department".
+- Make sure "Severity" is set accurately "SEV A" for matters that immedietley affect business.
+- 
 </p>
 <br />
