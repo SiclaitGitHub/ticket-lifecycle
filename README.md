@@ -74,6 +74,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assign tickets to relavent team memember "Jane Doe".
 - Assign ticket to the relvent "Department".
 - Make sure "Severity" is set accurately "SEV A" for matters that immedietley affect business.
-- 
+
+
+<img width="1059" alt="Screen Shot 2023-07-11 at 9 36 05 AM" src="https://github.com/SiclaitGitHub/ticket-lifecycle/assets/139138443/192bdf0c-d840-47cf-897d-bf897112a8ff">
+
+
+4. Resolve Ticket
+
+-Reply to the ticket in the text box. Make sure to change the status of the ticket to express the resolution stage of the ticket. 
+
+
 </p>
 <br />
