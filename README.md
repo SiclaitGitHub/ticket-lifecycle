@@ -84,5 +84,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -Reply to the ticket in the text box. Make sure to change the status of the ticket to express the resolution stage of the ticket. 
 
 
+<img width="1087" alt="Screen Shot 2023-07-11 at 9 39 19 AM" src="https://github.com/SiclaitGitHub/ticket-lifecycle/assets/139138443/2aafae6d-337a-4c9c-8095-4e1365509f84">
+
+5. Close Resolved Ticket
+
+-Once the matter has be resolved the make the ticket as "Closed"
+-Ticket should appear under the "Closed" tab of the "Tickets" section of the "Agent Admin" 
+
 </p>
 <br />
