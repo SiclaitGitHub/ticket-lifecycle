@@ -36,7 +36,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 1. Create Sample Tickets
 
-- Cretate 3 smaple tickets of varying priority through the end user interface that can be accessed through this URL " http://localhost/osTicket/ "
+- Create 3 sample tickets of varying priority through the end user interface that can be accessed through this URL "http://localhost/osTicket/"
+- This will give us matters to address when using the "Admin Panel"
+  
 
 </p>
 <br />
@@ -47,8 +49,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 2. Address tickets as a Help Desk professional
 
-- Log back into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"
-- The tickets created via the user interface should be visible. 
+- Log into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"
+- The tickets created via the user interface should be visible.
+
+
+<img width="1026" alt="Screen Shot 2023-07-11 at 9 19 53 AM" src="https://github.com/SiclaitGitHub/ticket-lifecycle/assets/139138443/717ff5da-5232-4a3c-abad-aaca298cfbb4">
+
+
+3. Confirm Agent Access
+   
+- Verify that the "Agent" has access to the tickets that were created previosuly on the "Admin Panel"
+- 
 </p>
 <br />
 
