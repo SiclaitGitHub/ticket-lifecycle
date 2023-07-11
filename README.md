@@ -59,7 +59,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 3. Confirm Agent Access
    
 - Verify that the "Agent" has access to the tickets that were created previosuly on the "Admin Panel"
-- 
+- Setting Agent to "Supreme Admin" access should allow the agent "Jane Doe" to see all created tickets. 
 </p>
 <br />
 
