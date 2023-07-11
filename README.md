@@ -64,9 +64,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1209" alt="Screen Shot 2023-07-11 at 9 29 13 AM" src="https://github.com/SiclaitGitHub/ticket-lifecycle/assets/139138443/a2e265c2-e21d-404d-a6dd-9f3a228fa578">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Open and Address Tcikets
+
+- Make sure "Priorpty" is set accuratley
+- Assign tickets to relavent team memember "Jane Doe"
+- Make sure "Severity" is set accurately "SEV A" for matters that immedietley affect business. 
 </p>
 <br />
