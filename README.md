@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 1. Create Sample Tickets
 
 - Cretate 3 smaple tickets of varying priority through the end user interface that can be accessed through this URL " http://localhost/osTicket/ "
--
+
 </p>
 <br />
 
@@ -47,7 +47,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 2. Address tickets as a Help Desk professional
 
--Log back into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"
+- Log back into the "Admin Panel" of the osTicket admin interface using this URL "http://localhost/osTicket/scp/login.php"
+- The tickets created via the user interface should be visible. 
 </p>
 <br />
 
