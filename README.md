@@ -58,7 +58,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 3. Confirm Agent Access
    
-- Verify that the "Agent" has access to the tickets that were created previosuly on the "Admin Panel".
+- Verify that the "Agent" has access to the tickets that were created previously on the "Admin Panel".
 - Setting Agent to "Supreme Admin" access should allow the agent "Jane Doe" to see all created tickets. 
 </p>
 <br />
@@ -68,12 +68,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-4. Open and Address Tcikets
+4. Open and Address Tickets
 
-- Make sure "Priorpty" is set accuratley.
-- Assign tickets to relavent team memember "Jane Doe".
-- Assign ticket to the relvent "Department".
-- Make sure "Severity" is set accurately "SEV A" for matters that immedietley affect business.
+- Make sure "Priority" is set accurately.
+- Assign tickets to relevant team member "Jane Doe".
+- Assign ticket to the relevant "Department".
+- Make sure "Severity" is set accurately "SEV A" for matters that immediately affect business.
 
 
 <img width="1059" alt="Screen Shot 2023-07-11 at 9 36 05 AM" src="https://github.com/SiclaitGitHub/ticket-lifecycle/assets/139138443/192bdf0c-d840-47cf-897d-bf897112a8ff">
@@ -88,8 +88,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 5. Close Resolved Ticket
 
--Mark the ticket as "Closed" once matter is resolved.
+-Mark the ticket as "Closed" once the matter is resolved.
 -Ticket should appear under the "Closed" tab of the "Tickets" section of the "Agent Admin".
 
 </p>
 <br />
+
